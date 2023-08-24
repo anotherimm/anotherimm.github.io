@@ -56,9 +56,10 @@ body{
 .greetings > span:nth-child(10){
     animation-delay: .18s;
 }
-.description{
+.description {
     font-size: 1.5rem;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .button a{
